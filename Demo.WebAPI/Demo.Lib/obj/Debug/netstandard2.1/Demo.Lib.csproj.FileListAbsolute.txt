@@ -1,0 +1,10 @@
+C:\Users\TX\Desktop\Demo\Demo.WebAPI\Demo.Lib\bin\Debug\netstandard2.1\Demo.Lib.deps.json
+C:\Users\TX\Desktop\Demo\Demo.WebAPI\Demo.Lib\bin\Debug\netstandard2.1\Demo.Lib.dll
+C:\Users\TX\Desktop\Demo\Demo.WebAPI\Demo.Lib\bin\Debug\netstandard2.1\Demo.Lib.pdb
+C:\Users\TX\Desktop\Demo\Demo.WebAPI\Demo.Lib\obj\Debug\netstandard2.1\Demo.Lib.csproj.AssemblyReference.cache
+C:\Users\TX\Desktop\Demo\Demo.WebAPI\Demo.Lib\obj\Debug\netstandard2.1\Demo.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TX\Desktop\Demo\Demo.WebAPI\Demo.Lib\obj\Debug\netstandard2.1\Demo.Lib.AssemblyInfoInputs.cache
+C:\Users\TX\Desktop\Demo\Demo.WebAPI\Demo.Lib\obj\Debug\netstandard2.1\Demo.Lib.AssemblyInfo.cs
+C:\Users\TX\Desktop\Demo\Demo.WebAPI\Demo.Lib\obj\Debug\netstandard2.1\Demo.Lib.csproj.CoreCompileInputs.cache
+C:\Users\TX\Desktop\Demo\Demo.WebAPI\Demo.Lib\obj\Debug\netstandard2.1\Demo.Lib.dll
+C:\Users\TX\Desktop\Demo\Demo.WebAPI\Demo.Lib\obj\Debug\netstandard2.1\Demo.Lib.pdb
